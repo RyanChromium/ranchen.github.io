@@ -112,7 +112,7 @@ body {
     }
 
     .project-image {
-      width : 160px;
+      width : 100px;
       height : auto;
       max-width: 60%;
       object-fit: contain;
