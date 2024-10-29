@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+  background-color: aliceblue;
 }
 
 html {
@@ -131,6 +132,11 @@ body {
       object-position: center;
     }
 
+    .resource-image {
+      width: 20px;
+      height: 20px;
+    }
+
 
 
 
@@ -188,6 +194,8 @@ body {
       width: 100%;
       height: auto;
     }
+
+  
 
 
 /* Extra Extra large devices (large laptops and desktops, 1200px and below) */
