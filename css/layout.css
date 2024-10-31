@@ -229,7 +229,7 @@ body {
   #portfolio-header {
     flex-direction: column;
   }
-  .project-container {
+  .project-card-text-container {
     max-width: calc((100% - 16px) / 2);
   }
 
