@@ -229,6 +229,9 @@ body {
   #portfolio-header {
     flex-direction: column;
   }
+  .project-container {
+    max-width: calc((100% - 16px) / 2);
+  }
 
   .project-card {
     max-width: calc((100% - 16px) / 2);
