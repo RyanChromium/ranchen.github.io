@@ -106,6 +106,7 @@ body {
   display: flex;
   gap: 34 34px;
   flex-flow: column wrap;
+  max-width: calc((100% - 32px) );
 }
 
     /* Project Cards */
