@@ -230,12 +230,13 @@ body {
     flex-direction: column;
   }
   .project-card-text-container {
-    max-width: calc((100% - 16px) / 2);
+    max-width: calc((100% - 16px)/2);
   }
 
   .project-card {
-    max-width: calc((100% - 16px) / 2);
+    max-width: 100%;
   }
+
 }
 
 /* Small devices (portrait tablets and large phones, 600px and below) */
@@ -243,7 +244,9 @@ body {
   #main-content {
     margin: 125px 20px;
   }
-
+  .project-card-text-container {
+    max-width: calc((100% - 16px)/2);
+  }
   .project-card {
     max-width: 100%;
   }
