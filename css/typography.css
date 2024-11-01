@@ -1,5 +1,9 @@
-body {
+/*body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}*/
+
+body, .navbar, .header-text, .body-text {
+  font-family: 'Roboto', sans-serif;
 }
 
 .nav-title {
